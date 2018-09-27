@@ -1,0 +1,59 @@
+body {
+  color: black;
+  background-color: black;
+  background-image:url(assets/wallpaper1.png); no-repeat center fixed;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+  }
+div {
+  text-align: right;
+  }
+p {
+  color: #f6b26b;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal;
+}
+.titre1, h2 {
+  color: #eeeeee;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 28px; font-style: normal; font-variant: normal;
+}
+.fieldset {
+  text-align:center;
+  float: right;
+  width: 30%;
+  height: 1200px;
+  border: 2px solid #9FE7EE;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+}
+.fieldset1 {
+  width: 55%;
+  height: 1200px;
+  text-align:center;
+  float:right;
+  border: 2px solid #9FE7EE;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  margin-left: 1%;
+}
+li {
+color: #f6b26b;
+margin-bottom: 4%;
+list-style-type: none; /* on annule la puce par défaut */
+background-image: url(assets/valide.png); /* on affiche l'image souhaitée */
+background-repeat: no-repeat; /* on annule la répétition par défaut */
+background-position: left center; /* on positionne où l'on veut */
+padding-left: 20px; /* pour éviter la superposition du contenu */
+}
+ul {
+  color: #f6b26b;
+}
+#photocv {
+  width: 234px;
+  height: 318px;
+}
+h1 {
+  color: #9FE7EE;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 48px; font-style: normal; font-variant: normal;
+}
